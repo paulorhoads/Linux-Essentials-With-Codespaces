@@ -1,6 +1,8 @@
 # Linux-Essentials-With-Codespaces
 Ambiente das aulas práticas
 
+# Explorando a pasta `/home` no Linux
+
 ---
 
 ## Porque começar pela pasta `/home`?
